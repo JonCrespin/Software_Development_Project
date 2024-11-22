@@ -96,5 +96,3 @@ else:
     )
 
 fig2.update_layout(bargap=0.1)
-
-st.plotly_chart(fig2)
