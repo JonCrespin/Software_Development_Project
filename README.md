@@ -1,6 +1,10 @@
 # Software_Development_Project
 # Project Title: Video Game Sales & Analysis Streamlit App
 
+
+This project has been deployed and is live on Render.  
+**Live Application URL:** [https://software-development-project-654f.onrender.com](https://software-development-project-654f.onrender.com)
+
 ## Project Overview
 
 This Streamlit app visualizes video game sales data and provides insights into sales performance by genre, developer, and critic scores. The app allows users to explore data related to video games, including total sales across various platforms, and compare how critic scores influence total sales. The dataset used contains information about video game sales, publishers, developers, and other relevant attributes for 12,580 games.
